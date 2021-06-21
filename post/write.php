@@ -3,6 +3,7 @@
 <html>
 <head>
         <meta charset = 'utf-8'>
+	<title>글쓰기</title>
 </head>
 <style>
         table.table2{

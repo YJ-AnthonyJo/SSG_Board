@@ -22,6 +22,10 @@
         <?php   }
                 else if($_SESSION['userid']==$usrid) {
         ?>
+<head>
+<title>글 수정</title>
+</head>
+<body>
         <form method = "get" action = "modify_action.php">
         <table  style="padding-top:50px" align = center width=700 border=0 cellpadding=2 >
                 <tr>
@@ -61,3 +65,4 @@
                         </script>
         <?php   }
         ?>
+</body>

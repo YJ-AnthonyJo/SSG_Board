@@ -9,6 +9,7 @@
                 $result = $connect->query($query);
                 $rows = mysqli_fetch_assoc($result);
         ?>
+<title>조회</title>
 <style>
 table, th, td {
   border: 1px solid black;
